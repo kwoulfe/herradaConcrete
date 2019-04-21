@@ -1,0 +1,3 @@
+Just the very beginning of a website for a client. More to come on this one...
+
+<img width="1427" alt="jumbotronImage" src="https://user-images.githubusercontent.com/34074885/56474891-2b0fa280-6435-11e9-9849-c844d2abe423.png">
